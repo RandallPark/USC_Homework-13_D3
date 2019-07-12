@@ -1,3 +1,6 @@
+# USC_Homework-13_D3
+D3 homework for USC Data Analytics Bootcamp
+
 # Unit 16 | Assignment - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
