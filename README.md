@@ -2,9 +2,13 @@
 **D3 homework for USC Data Analytics Bootcamp**  
 The repo is located [here][1]
 
-[1]: https://github.com/RandallPark/USC_Homework-13_D3 "my repo"
+
+### Resources
+
+* ToolTip with just D3 code [example][2]
 
 
+[2]: https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html "click and go to example"
 
 ## Unit 16 | Assignment - Data Journalism and D3
 
