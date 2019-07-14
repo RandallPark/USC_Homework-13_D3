@@ -2,9 +2,6 @@
 **D3 homework for USC Data Analytics Bootcamp**  
 The repo is located [here][1]
 
-[1]: https://github.com/RandallPark/USC_Homework-13_D3 "my repo"
-
-
 
 ## Unit 16 | Assignment - Data Journalism and D3
 
