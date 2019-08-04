@@ -1,5 +1,6 @@
-# USC Homework-13 D3
-**D3 homework for USC Data Analytics Bootcamp**  
+# Sample Work
+**Using D3 for USC Data Analytics Bootcamp**  
+See the example run [here][demo]
 The repo is located [here][1]
 
 ### Resources
@@ -13,6 +14,7 @@ The repo is located [here][1]
 * [d3-tip with d3 v5][8]
 
 
+[demo]
 [2]: https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html "click and go to example"
 [3]: http://bl.ocks.org/d3noob/a22c42db65eb00d4e369
 [4]: https://bl.ocks.org/mbostock/9764126
