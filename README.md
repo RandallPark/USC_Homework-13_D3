@@ -5,10 +5,21 @@ The repo is located [here][1]
 ### Resources
 
 * ToolTip with just D3 code [example][2]
+* Simple tool tip [example][3]
+* [Tick Format][4]
+* [Tick Date Format][5]
+* [d3 Format][6]
+* [and d3 Format examples][7]
+* [d3-tip with d3 v5][8]
 
 
 [2]: https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html "click and go to example"
-
+[3]: http://bl.ocks.org/d3noob/a22c42db65eb00d4e369
+[4]: https://bl.ocks.org/mbostock/9764126
+[5]: http://bl.ocks.org/ChandrakantThakkarDigiCorp/6489ffd64504d90fdd6f36535e5dd3fd
+[6]: https://github.com/d3/d3-format
+[7]: http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e
+[8]: https://bl.ocks.org/bytesbysophie/0311395c1e082f98e67efaf2c7f9555b
 
 ## Unit 16 | Assignment - Data Journalism and D3
 
@@ -36,7 +47,7 @@ Using D3 techniques, create a scatter plot that represents each state with circl
 
 * Create and situate your axes and labels to the left and bottom of the chart.
 
-### Note: *To run visualization you either need to use*:  
+### Note: To *run visualization* you either need to use:  
  *  `python -m http.server` 
  	 - This will host the page at `localhost:8000` in your web browser.
  *  **or** VS Code `Open with Live Server` (right click .html file).  
